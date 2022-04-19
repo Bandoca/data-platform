@@ -1,1 +1,1 @@
-# data-platform-manning
+# data-platform
